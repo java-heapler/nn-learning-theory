@@ -1,6 +1,6 @@
 # Neural Networks and Learning Theory Applications
 
-Explored advanced neural network techniques, including Feedforward Neural Networks, Convolutional Neural Networks, Autoencoders, and GANs, using Python, PyTorch, and scikit-learn to analyze and visualize performance on datasets like CIFAR-10 and Fashion MNIST, implementing methods like dropout and different optimizers for enhanced model performance.
+Explored advanced neural network techniques, including Feedforward Neural Networks, Convolutional Neural Networks, Autoencoders, and GANs, using **Python**, **PyTorch**, and **scikit-learn** to analyze and visualize performance on datasets like CIFAR-10 and Fashion MNIST, implementing methods like dropout and different optimizers for enhanced model performance.
 
 ## About My Portfolio
 
